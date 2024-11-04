@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unikuele.github.io/WSJ/sitemap_index.txt
+Sitemap: https://unikuele.github.io/haG/sitemap_index.txt
+Sitemap: https://unikuele.github.io/hvc/sitemap_index.txt
+Sitemap: https://unikuele.github.io/jRm/sitemap_index.txt
